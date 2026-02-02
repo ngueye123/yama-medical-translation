@@ -1,20 +1,20 @@
-# 🇸🇳 YAMA - Système de Traduction Médicale Wolof ⇄ Français
+#  YAMA - Système de Traduction Médicale Wolof ⇄ Français
 
-## 🎯 À Propos
+## À Propos
 
 YAMA est un **microservice de traduction médicale** spécialisé pour le contexte sénégalais. Il traduit de manière **sécurisée** entre le **Wolof** et le **Français**, tout en préservant l'intégrité des informations médicales critiques.
 
-### ✨ Caractéristiques Principales
+### Caractéristiques Principales
 
-- 🔒 **Protection des médicaments** : 788 médicaments de la Liste National des Médicaments Essentiiel du Sénégal 2022
-- 💊 **Préservation des dosages** : 500mg reste toujours 500mg
-- ✅ **Vérification d'intégrité** : 5 niveaux de contrôle de sécurité
-- 🔄 **Restauration automatique** : Correction des erreurs du modèle
-- 🌍 **Contexte local** : Antipaludéens et médicaments essentiels sénégalais
+- **Protection des médicaments** : 788 médicaments de la Liste National des Médicaments Essentiiel du Sénégal 2022
+- **Préservation des dosages** : 500mg reste toujours 500mg
+- **Vérification d'intégrité** : 5 niveaux de contrôle de sécurité
+- **Restauration automatique** : Correction des erreurs du modèle
+- **Contexte local** : Antipaludéens et médicaments essentiels sénégalais
 
 
 
-## 🚀 Installation Rapide
+## Installation Rapide
 
 ```bash
 # 1. Cloner le dépôt
@@ -40,7 +40,7 @@ Le service sera accessible sur `http://localhost:8000/docs`
 
 ---
 
-## 💡 Utilisation
+## Utilisation
 
 ### Exemple Simple
 
@@ -63,14 +63,14 @@ curl -X POST "http://localhost:8000/translate" \
 }
 ```
 
-✅ **Notez que** :
+ **Notez que** :
 - `Amoxicilline` (médicament) n'est pas traduit
 - `500mg` (dosage) est préservé exactement
 - La traduction est sûre et validée
 
 ---
 
-## 💊 Base de Données Médicamenteuse
+## Base de Données Médicamenteuse
 
 ### 788 Médicaments - LNME Sénégal 2022
 
@@ -79,7 +79,7 @@ La base contient **100%** des médicaments de la Liste Nationale des Médicament
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -113,7 +113,7 @@ La base contient **100%** des médicaments de la Liste Nationale des Médicament
 
 ---
 
-## 🛡️ Sécurité Médicale
+##  Sécurité Médicale
 
 ### 5 Niveaux de Protection
 
