@@ -1,0 +1,17 @@
+
+# Framework API
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+
+# Machine Learning / NLP
+torch>=2.2.0
+transformers>=4.37.0
+sentencepiece>=0.1.99  # Requis pour NLLB tokenizer
+sacremoses>=0.1.1  # Tokenisation avancée
+accelerate>=0.20.0  # Optimisations GPU/CPU
+
+# Utilitaires
+python-multipart>=0.0.6  # Pour form data
+python-dotenv>=1.0.0  # Variables d'environnement
+

@@ -1,0 +1,3951 @@
+{
+  "metadata": {
+    "version": "2022",
+    "date": "2026-01-29",
+    "description": "Liste Nationale des Médicaments Essentiels du Sénégal",
+    "source": "Ministère de la Santé et de l'Action sociale - République du Sénégal",
+    "total_medications": 788
+  },
+  "medications": [
+    {
+      "name": "Amikacine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amiklin",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amoxicilline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Clamoxyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amoxicilline+Acide Clavulanique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Augmentin",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ampicilline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Totapen",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Azithromycine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zithromax",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Benzathine-benzylpénicilline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Extencilline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Benzylpénicilline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "PéniG",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Céfazoline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Céfacidal",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Céfixime",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Oroken",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Céfotaxime",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Claforan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ceftriaxone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rocéphine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ciprofloxacine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cifran",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ciproxin",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Doxycycline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vibra",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Erythromycine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ery",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Gentamicine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Gentalline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Oxacilline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bristopen",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Flucloxacilline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Staphypen",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Imipenème",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Phénoxyméthylpénicilline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ospen",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sulfaméthoxazole+Triméthoprime",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bactrim",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cotrimoxazole",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vancomycine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vanco",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Thiamphénicol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Thiophénicol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Imipenème+Cilastatine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bacqure",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Céfuroxime",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zinnat",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cyclosérine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ethambutol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Myambutol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ethionamide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Trecator",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Isoniazide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rimifon",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lévofloxacine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tavanic",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pyrazinamide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pirilène",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Clofazimine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lampréne",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bédaquiline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Linézolide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zyvoxid",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pyridoxine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Delamanid",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rifampicine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rimactan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rifapentine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rifampicine+Isoniazide+Pyrazinamide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rifampicine+Isoniazide+Pyrazinamide+Ethambutol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dapsone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Disulone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Artésunate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Artesun",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amodiaquine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Artésunate+Amodiaquine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "ASAQ",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Artéméther",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Artemedine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Luméfantrine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Artéméther+Luméfantrine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Coartem",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "DihydroArtémisinine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pipéraquine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "DihydroArtémisinine+Pipéraquine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Duocotexcin",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sulfadoxine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pyriméthamine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sulfadoxine+Pyriméthamine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fansidar",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sulfadoxine+Pyriméthamine+Amodiaquine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "SPAQ-CO",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Quinine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Quinimax",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Primaquine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Plasmotrim",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Métronidazole",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Flagyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amphotéricine B",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fungizone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amphotéricine B liposomale",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "AmBisome",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fluconazole",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Triflucan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Griséofulvine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Griséfuline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Kétoconazole",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Nizoral",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Nystatine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mycostatine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Terbinafine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lamisil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Albendazole",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zentel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mébendazole",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vermox",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ivermectine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mectizan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Praziquantel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Biltricide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Aciclovir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zovirax",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Valaciclovir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zélitrex",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ganciclovir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cymévan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ténofovir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Viread",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sofosbuvir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Solvaldi",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Emtricitabine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lamivudine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zidovudine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Abacavir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ténofovir+Emtricitabine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ténofovir+Lamivudine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zidovudine+Lamivudine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zidovudine+Lamivudine+Abacavir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Abacavir+Lamivudine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Efavirenz",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sustiva",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Atazanavir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Reyataz",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Atazanavir+Ritonavir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Darunavir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Prezista",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Darunavir+Ritonavir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lopinavir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Kaletra",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lopinavir+Ritonavir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ritonavir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Norvir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ténofovir+Emtricitabine+Efavirenz",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ténofovir+Lamivudine+Efavirenz",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Raltégravir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Isentress",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dolutégravir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tivicay",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ténofovir+Lamivudine+Dolutégravir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ténofovir alafenamide+Emtricitabine+Dolutégravir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ténofovir alafenamide+Emtricitabine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Abacavir+Lamivudine+Dolutégravir",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Oxygène",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Protoxyde d'azote",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Isoflurane",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sévoflurane",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sévorane",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Desflurane",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Kétamine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Kétalar",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Propofol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Diprivan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Etomidate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Hypnomidate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Diazépam",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Valium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Midazolam",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Hypnovel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Thiopental",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pentothal",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dexmedetomidine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dropéridol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Droleptan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bupivacaïne",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Marcaïne",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lidocaïne",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Xylocaïne",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ropivacaïne",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Naropeine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mepivacaïne",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Atropine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Atropine faure",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Néostigmine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Prostigmine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Suxaméthonium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Célocurine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Succinylcholine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rocuronium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Esmeron",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vécuronium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Norcuron",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Atracurium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tracrium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fentanyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sufentanil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sufenta",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Morphine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Nalbuphine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Nubain",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Nefopam",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Acupam",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tramadol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Trabar",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Acétylsalicylate de lysine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Aspégic",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Acide acétylsalicylique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Aspirine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Acide méfénamique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ponstyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Acide niflumique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Nifluril",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ibuprofène",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Brufen",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Advil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Indométacine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Indocid",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Kétoprofène",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Profénid",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Diclofénac",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Voltarène",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Paracétamol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Doliprane",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Perfalgan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Efferalgan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Prednisone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cortancyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Buprénorphine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Temgésic",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Morphine chlorhydrate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Skenan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Actiskenan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Méthadone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cétirizine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zyrtec",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dexaméthasone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Soludécadron",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dexchlorphéniramine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Polaramine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Hydrocortisone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Méthylprednisolone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Solumédrol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Prométhazine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Phénergan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Charbon activé",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Carbophos",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Disulfurame",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Espéral",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Flumazénil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Anexate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "N-acétylcystéine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fluimicil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Naloxone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Narcan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pralidoxime",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Contrathion",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "EDTA disodique calcique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Déferoxamine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Desferal",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Glucagon",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Glucagen",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sulfate de Protamine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Protamine Choay",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Intralipide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Succimer",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Succicaptal",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sulfate de magnésium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Acide valproïque",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dépakine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Valproate de sodium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amitriptyline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Laroxyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Carbamazépine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tégrétol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Chlorpromazine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Largactil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Clonazépam",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rivotril",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Phénytoïne",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dihydan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fluphénazine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Modécate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Halopéridol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Haldol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lévomépromazine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Nozinan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Phénobarbital",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Gardénal",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Trihexyphénidyle",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Artane",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tropatépine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lepticur",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Acide folique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Foldine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cyanocobalamine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vitamine B12",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Erythropoïétine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Eprex",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Epoétine bêta",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Néorecormon",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fer",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fumafer",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Folifer",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sels ferreux",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Etamsylate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dicynone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Misoprostol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cytotec",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Acide tranexamique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Exacyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Phytoménadione",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vitamine K1",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fluindione",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Préviscan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Acénocoumarol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sintrom",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mini-sintrom",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rivaroxaban",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "RIXA",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Enoxaparine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lovenox",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Héparinate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Calciparine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Héparine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Héparine sodique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Streptokinase",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Streptase",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Altéplase",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Actilise",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tenecteplase",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Metalyse",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Clopidogrel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Plavix",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ticagrelol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Brilique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Allupurinol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zyloric",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Gélatine fluide modifiée",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Haemacel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Hydroxyéthylamidon",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Voluven",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Diltiazem",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tildiem",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dinitrate d'isosorbide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Risordan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Trinitrate de glycérine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Trinitrine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Nitroglycerine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Nitroderm",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Altizide+spironolactone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Aldactazine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amlodipine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amlor",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bisoprolol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cardiocor",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Carvedilol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Perindopril",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Coversyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ramipril",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Triatec",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Valsartan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tareg",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Candésartan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Atacand",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Clonidine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Catapressan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Furosémide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lasilix",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Hydrochlorothiazide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Esidrex",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Indapamide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fludex",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Méthyldopa",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Aldomet",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Labétalol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Trandate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Nicardipine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Loxen",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Nifédipine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Adalate retard",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Propranolol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Avlocardyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Spironolactone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Aldactone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amlodipine+Perindopril",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amlodipine+Valsartan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ramipril+Hydrochlorothiazide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Valsartan+Hydrochlorothiazide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amlodipine+Indapamide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amlodipine+Indapamide+Perindopril",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amlodipine+Valsartan+Hydrochlorothiazide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amiodarone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cordarone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Digoxine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Hémidigoxine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dopamine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Noradrénaline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Norépinéphrine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dobutamine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dobutrex",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Epinéphrine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Adrénaline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ephédrine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Phenylephedrine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Isoprénaline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Isuprel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Alprostadil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Prostine VR",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vérapamil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Isoptine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Atorvastatine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tahor",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rosuvastatine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Crestor",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ezetimibe",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ezetrol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Econazole",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pévaryl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Béthamétasone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Betnéval",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Clobétasone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dermoval",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mupirocine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bactroban",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cortapaisyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Alcool",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Alcool iodé",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Eau oxygénée",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Eosine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ether",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Formaldéhyde",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Formol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Hypochlorite de sodium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Eau de javel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dakin",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Oxyde de zinc",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Polyvidone iodée",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bétadine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Violet de gentiane",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Chlorhexidine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Crème solaire",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Talc",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaseline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Benzoate de benzyle",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ascabiol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaseline salicylée",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Thiocolchicoside",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Coltramyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ocytocine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Syntocinon",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Carbétocine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "PABAL",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Salbutamol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ventoline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Salbumol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bétamethasone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Célestène",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cimétidine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tagamet",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Oméprazole",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mopral",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Maalox",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Granisétron",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Kytril",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ondasétron",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zophren",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Métopimazine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vogalène",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lévosulpiride",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dislep",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "DAFLON",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Phloroglucinol+trimethylphloroglucinol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Spasfon",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Paraffine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lansoyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lactulose",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Duphalac",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "SRO",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "ReSoMal",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zinc",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Carbocystéine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rhinathiol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Terpine+codéine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "NéoCodion",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dextromethorphane",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "DRILL",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "KOFOF",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Oxomémazine+guaïfénésine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Toplexil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Terbutaline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bricanyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fluticasone+formotérol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "FLUTIFORM",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Budésonide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "PULMICORT",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Montelukast",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Thiotropium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "SPIRIVA",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fluticasone+salméterol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "SERETIDE",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bromure d'ipratropium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "ATROVENT",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Citrate de caféine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lidocaïne+eugénol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Alvogyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Eugénol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ciment verre ionomére",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Hydroxyde de calcium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pate fluorée",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pharmaéthyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pulpéryl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Articaine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rockless",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sérum anti-D",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "IMMUNHORO",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sérum antirabique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sérum antitétanique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sérum antivenimeux",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "INOSERP",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin antirougeole-rubéole",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin ROR",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin antiamaril",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin antihépatite B",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin Antiméningo",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin antipneumococcique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin antipoliomyélitique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin antirabique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin antitétanique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin antituberculeux",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin Anti-papillomavirus",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin antirotavirus",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin anticovid",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin Pentavalent",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bicarbonate de sodium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Chlorure de potassium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Chlorure de sodium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Chlorure de calcium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Chlorure de magnésium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Gluconate de calcium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Glucose",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ringer Lactate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mannitol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Albumine humaine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cétoxonium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Biocidan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Chloramphénicol+Dexaméthasone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cébédexacol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Chlortétracycline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Auréomycine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tétracycline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fluorescéine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Néomycine+Polymyxine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cébémyxine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Norfloxacine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Chibroxine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Désocort",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Indocollyre",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Oxybuprocaïne",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cébésine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lignocaine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amethocaine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tétracaïne",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Acétazolamide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Diamox",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Brinzolamide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Azopt",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cartéolol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cartéol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pilocarpine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Timolol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Timoptol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Latanoprost",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Xalatan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tropicamide+phénylephrine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mydrane",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cyclopentolate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Skiacol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tropicamide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mydriaticum",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Picloxydine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vitabact",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Carbomère",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lacrigel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cromoglycate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cromoptic",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lévocabastine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lévophta",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ranibizumab",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lucentis",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Acide ascorbique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vit C",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vitamine C",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Calcium gluconate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Calcium Vit D3",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "CalC Vita",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vit B6",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vitamine B6",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rétinol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vit A",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vitamine A",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Eau pour préparation injectable",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Glimépiride",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Amarel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Gliclazide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "DIAMICRON",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Insuline Mixte",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mixtard",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Insuline Lente",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Insulatard",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Insuline Rapide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Actrapid",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Metformine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Glucophage",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Gliclazide+metformine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Glide-M",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Carbimazole",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Néo mercazole",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cortisone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cyprotérone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Androcur",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Progesterone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bicalutamide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Casodex",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Goséréline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zoladex",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lévothyroxine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "L-thyroxine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cabergoline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "DOSTINEX",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bléomycine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Carboplatine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Chlormétine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Caryolysine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cisplatine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cisplatyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Endoxan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Doxorubicine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Adriblastine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Epirubicine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Farmorubicine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Etoposide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vépéside",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fluorouracil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fluracil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Hydroxycarbamide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Hydréa",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Melphalan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Alkéran",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Méthotrexate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ledertrexate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Paclitaxel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Taxol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tamoxifène",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Nolvadex",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vinblastine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vincristine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Oncovin",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bevacizumab",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Avastin",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Trastuzumab",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Herceptin",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Rituximab",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mabthera",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Capecitabine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Xéloda",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ibandronate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bondronat",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Filgrastim",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Neupogen",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Acide Zolédronique",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Zométa",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Triptoréline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Décapeptyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Folinate de calcium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Actinomycine D",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pemetrexed",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Thalidomide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Anastrozole",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Arimidex",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Gemcitabine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Letrozole",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Femara",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sunitinib",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sutent",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Azacitidine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mercaptopurine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Thioguanine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cytarabine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ifosfamide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Oxaliplatine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dacarbazine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Témozolomide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Irinotécan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Topotécan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Daunorubicine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vinorelbine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "L Asparaginase",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pegfilgastrim",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Mesna",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fludarabine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Busulphan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Chorambucil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bendamustine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Carmustine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Procarbazine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Docetaxel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bortézomib",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Idarubicine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Brentuximab vedotin",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Daratumumab",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lénalidomide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ciclosporine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Trétinoïne",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Arsénic trrioxyde",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Atézolizumab",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Pembrolizumab",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Erlotinib",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Chloraminophène",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Trophysan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Plumpy sup",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Plumpy nut",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "F100",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "F75",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fénoxazoline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Phénazone+Lidocaïne",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Otipax",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Xylométazoline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Otrivine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ethinylestradiol+levonorgestrel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Microgynon",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Levonorgestrel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Norlevo",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Microlut",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Etonogestrel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "NXT implanon",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Jadelle",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Acétate médroxyprogestérone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Dépo provéra",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sayana press",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Bicarbonate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Calciférol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Carbonate de calcium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cyclosporine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cinacalcet",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Polystyrène sulfonate de Potassium",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Kayexalate",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Prednisolone",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cholécalciférol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fer carboxymaltose",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Fer saccharose",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Micophénolate mofétil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Alphacalcidiol",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Sévélamer",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Renagel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Azathioprine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Imurel",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Basiliximab",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Simulect",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Cellcept",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tacrolimus",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Prograf",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Interféron pégylé",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Thymoglobuline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Alfuzosine",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Xatral",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Lévodopa+benserazide",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Modopar",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Donepézil",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Aricept",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Ginkgo biloba",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Tanakan",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Piracétam",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Nootropyl",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaccin antigrippal",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Vaxigrip",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    },
+    {
+      "name": "Insuline",
+      "category": "LNME_Sénégal",
+      "source": "Liste Nationale 2022"
+    }
+  ]
+}
